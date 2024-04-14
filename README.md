@@ -1,3 +1,5 @@
+Nathanael Vacher & Elias Enkirche 
+
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 
 [![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
